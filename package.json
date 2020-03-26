@@ -21,6 +21,7 @@
     "android"
   ],
   "dependencies": {
+    "@react-native-community/hooks": "^2.4.7",
     "react-native-gesture-handler": "^1.6.0",
     "react-native-reanimated": "^1.7.0",
     "react-native-redash": "^10.0.1",
